@@ -1,5 +1,6 @@
 # 简介
-本仓库（https://github.com/Xiebt3/21307352_design.git）包括了作业要求提交的设计文档、运行截图、源代码库。其中源代码库的项目启动文件为design/src/main.py
+本仓库对应Github repo URL为https://github.com/Xiebt3/21307352_design.git
+包括了作业要求提交的设计文档、运行截图、源代码库。其中源代码库的项目启动文件为design/src/main.py
 
 输入（参考作业文档示例）：
 ```
